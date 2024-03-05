@@ -12,7 +12,7 @@
 [![Jupyter](https://img.shields.io/static/v1?message=Jupyter&logo=jupyter&labelColor=5c5c5c&color=F37626&logoColor=white&label=%20)](https://jupyter.org/)
 [![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&labelColor=5c5c5c&color=FF6F00&logoColor=white&label=%20)](https://www.tensorflow.org/)
 
-Note: I provided all codes used in this project on the Jupyter Notebook [here](https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification/blob/main/star-galaxy-classification.ipynb)
+<u>Note</u>: I provided all codes used in this project on the Jupyter Notebook [here](https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification/blob/main/star-galaxy-classification.ipynb).
 
 <h2>
   🔎 Motivation
