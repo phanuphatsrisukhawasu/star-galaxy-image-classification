@@ -4,7 +4,7 @@
 
 
 🌟 Classify stellar sources in images to stars or galaxies using CNNs
-📈 Investigate the performance of different models: DenseNet121, EfficientNetV2B0, MobileNetV3Small, and ensemble architectures.
+<br> 📈 Investigate the performance of different models: DenseNet121, EfficientNetV2B0, MobileNetV3Small, and ensemble architectures.
 
 <img src="https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification/blob/main/banner-example-prediction.jpeg?raw=true" alt="Example Prediction of Ensembled CNNs">
 
