@@ -4,7 +4,7 @@
 
 
 🌟 Classify stellar sources in images to stars or galaxies using CNNs
-<br> 📈 Investigate the performance of different models: DenseNet121, EfficientNetV2B0, MobileNetV3Small, and ensemble architectures.
+<br> 📈 Investigate the performance of different models: `DenseNet121`, `EfficientNetV2B0`, `MobileNetV3Small`, and ensemble architectures.
 
 <img src="https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification/blob/main/banner-example-prediction.jpeg?raw=true" alt="Example Prediction of Ensembled CNNs">
 
@@ -26,13 +26,13 @@ As you may see in the above pictures, distinguishing between stars and galaxies 
 
 In this project, I investigate the performance of different CNN architectures in identifying the source type. First, I would like to extend my sincere gratitude to the author of the dataset utilized in this project, Divyansh Agrawal (the dataset is available on Kaggle [here](www.kaggle.com/datasets/divyansh22/dummy-astronomy-data)). I used this dataset for all experiments.
 
-In brief, I train different architectures: DenseNet121, EfficientNetV2B0, and MobileNetV3Small by fine-tuning their layers from the pre-trained weights on the ImageNet dataset. The ensemble CNN predicts by averaging the output of all models, resulting in voted prediction.
+In brief, I train different architectures: `DenseNet121`, `EfficientNetV2B0`, and `MobileNetV3Small` by fine-tuning their layers from the pre-trained weights on the ImageNet dataset. The ensemble CNN predicts by averaging the output of all models, resulting in voted prediction.
 
 <h2>
   📊 Summarized Results
 </h2>
   
-I evaluated the performance of each model based on the classification accuracy, precision, recall, F1 Score, and AUC Score. We presented the full results in the notebook. At a glance, the performance of our ensembled CNNs shows a higher AUC and precision than any others.
+I evaluated the performance of each model based on the classification accuracy, precision, recall, F1 Score, and AUC Score. I presented the full results in the notebook. At a glance, the performance of our ensembled CNNs shows a higher AUC and precision than any others.
 
 <image src="https://github.com/phanuphatsrisukhawasu/star-galaxy-image-classification/blob/main/roc-curve.png?raw=true" alt_text="ROC Curve">
   
